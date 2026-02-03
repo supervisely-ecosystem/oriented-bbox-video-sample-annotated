@@ -20,7 +20,7 @@
 
 This is a oriented bounding box project video sample consisting of one video with annotations.
 
-<img src="" />
+<img src="https://github.com/user-attachments/assets/bad6939a-9c69-4691-b5fc-7d48768dee65" />
 
 ## Download
 
