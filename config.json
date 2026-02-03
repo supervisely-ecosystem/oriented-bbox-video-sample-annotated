@@ -1,0 +1,12 @@
+{
+    "name": "Oreiented BBox (OBB) Video Sample Annotated",
+    "description": "Sample project featuring an annotated top-down video of a traffic intersection",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "",
+    "icon_cover": true
+}
