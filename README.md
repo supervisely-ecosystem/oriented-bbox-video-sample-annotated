@@ -24,4 +24,4 @@ This is a oriented bounding box project video sample consisting of one video wit
 
 ## Download
 
-Multiview project sample in Supervisely format (88.6 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/oriented-bbox-video-sample-annotated/releases/download/v1.0.0/project.zip)
+Oriented Bounding Box project sample in Supervisely format (5.35 MB): [Download ZIP archive](https://github.com/supervisely-ecosystem/oriented-bbox-video-sample-annotated/releases/download/v1.0.0/project.zip)
