@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
+  <a href="#application">Application</a> •
   <a href="#download">Download</a>
 </p>
 
@@ -18,9 +19,26 @@
 
 ## Overview
 
-This is a oriented bounding box project video sample consisting of one video with annotations.
+This sample project features an annotated top-down video of a traffic intersection, demonstrating how **Oriented Bounding Boxes (OBB)** behave in a real tracking workflow. 
+
+It illustrates how objects with rotation, specifically vehicles in a traffic scene, are accurately labeled and automatically propagated through a sequence using a lightweight, CPU-only tracking approach.
 
 <img src="https://github.com/user-attachments/assets/bad6939a-9c69-4691-b5fc-7d48768dee65" />
+
+When you explore this sample, you will find a compact yet complete example of traffic-analysis annotation. The project includes:
+- A high-quality video recorded from an overhead viewpoint at a crossroad.
+- A comprehensive set of annotations using OBB geometry to tightly fit each vehicle.
+- A pre-configured tracking workflow built with the **Auto Track** application and its embedded **Smart Interpolation** tool.
+
+## Application
+
+This sample is designed to be a hands-on learning tool. By exploring this project, you can observe the final results of combining OBB with Smart Interpolation. To get the most out of it and master these tools, we recommend the following workflow:
+
+1. **Examine the results**: See how OBB and Smart Interpolation work together in a real scenario.
+2. **Practice**: Hide the provided annotations and try to repeat the experiment yourself.
+3. **Compare**: Evaluate your results against the original annotations to perfect your skills.
+
+If you are not familiar with how these tools work, please refer to the [Oriented Bounding Box Tool & Smart Interpolation](https://docs.supervisely.com/labeling/labeling-tools/oriented-bounding-box-tool) to learn more.
 
 ## Download
 
